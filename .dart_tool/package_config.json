@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/mecum/AppData/Local/Pub/Cache/hosted/pub.dev/lints-5.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    },
+    {
+      "name": "my_app",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.7"
+    }
+  ],
+  "generated": "2025-03-19T02:17:26.246306Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.2",
+  "flutterRoot": "file:///C:/Users/mecum/dev/flutter",
+  "flutterVersion": "3.29.2",
+  "pubCache": "file:///C:/Users/mecum/AppData/Local/Pub/Cache"
+}
